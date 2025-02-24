@@ -1,3 +1,3 @@
 # 3D Cube Viewer
 
-[View Demo](https://MultiExima.io/3DCube/)
+[View Demo](https://MultiExima.github.io/3DCube/)
